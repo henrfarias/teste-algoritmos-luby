@@ -39,4 +39,12 @@ Entrada do método ([6, 8], [8, 9]), Resultado do método: [8]
 
 ps: Esses exercícios são de senso comum da comunidade desenvolvimento, utilize o melhor padrão para implementação, criando uma semântica factível.
 
+---
+
+Testes realizados utilizando node 14.16.0, ES6;
+
+Para visualizar os resultados, basta entrar na pasta onde se encontra o arquivo "test.js" com o terminal e dar o comando 
+```
+node test.js
+``` 
 
